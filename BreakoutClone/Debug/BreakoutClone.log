@@ -1,0 +1,15 @@
+﻿  BreakoutClone.cpp
+C:\Users\hpennycuick\Documents\BreakoutClone20T1\BreakoutClone\BreakoutClone\BreakoutClone.cpp(23,38): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+C:\Users\hpennycuick\Documents\BreakoutClone20T1\BreakoutClone\BreakoutClone\BreakoutClone.cpp(23,25): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+C:\Users\hpennycuick\Documents\BreakoutClone20T1\BreakoutClone\BreakoutClone\BreakoutClone.cpp(28,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\hpennycuick\Documents\BreakoutClone20T1\BreakoutClone\BreakoutClone\BreakoutClone.cpp(36,46): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\hpennycuick\Documents\BreakoutClone20T1\BreakoutClone\BreakoutClone\BreakoutClone.cpp(42,46): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\hpennycuick\Documents\BreakoutClone20T1\BreakoutClone\BreakoutClone\BreakoutClone.cpp(48,46): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\hpennycuick\Documents\BreakoutClone20T1\BreakoutClone\BreakoutClone\BreakoutClone.cpp(80,34): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\hpennycuick\Documents\BreakoutClone20T1\BreakoutClone\BreakoutClone\BreakoutClone.cpp(119,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\hpennycuick\Documents\BreakoutClone20T1\BreakoutClone\BreakoutClone\BreakoutClone.cpp(145,27): warning C4018: '<': signed/unsigned mismatch
+  BreakoutClone.vcxproj -> C:\Users\hpennycuick\Documents\BreakoutClone20T1\BreakoutClone\Debug\BreakoutClone.exe
